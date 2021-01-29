@@ -21,6 +21,8 @@ int main(void) {
 
 	printf("문자열의 길이는 %d 입니다.\n", size);
 
+	char A[10 = ]
+
 	return 0;
 }
 
