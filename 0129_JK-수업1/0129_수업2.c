@@ -34,6 +34,8 @@ int strStringLength(char name[]) {
 	return length;
 	*/
 	
+
+	// 아래 코드를 이해하기
 	int max = sizeof(name) / sizeof(char);
 	int length = 1; // 문자열의 길이
 	// '\0' 문자열의 끝은 항상 Null (\0)
